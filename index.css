@@ -10,6 +10,11 @@ body {
     overflow: hidden;
 }
 
+a {
+    text-decoration: none;
+    color: #eeeeee;
+}
+
 #grid {
     display: grid;
     grid-template-columns: 1fr 8fr 1fr;
